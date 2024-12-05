@@ -18,7 +18,7 @@ The library handles authentication by using API keys and refresh tokens stored i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sujalrajpoot/beagoai-unofficial.git
+   git clone https://github.com/sujalrajpoot/beagoai-unofficial-api.git
    ```
 
 4. Create a `.env` file in the project root and add your API credentials:
