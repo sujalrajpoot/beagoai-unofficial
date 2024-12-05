@@ -1,8 +1,8 @@
-# BeagoAI Unofficial Api
+# BeagoAI Unofficial API
 
 # Description
 
-**BeagoAI Unofficial Api** is a Python client library designed to interact with the Beago AI platform unofficially. It provides a simple interface to authenticate and communicate with the Beago AI API, allowing users to send queries and receive responses in a structured format. This library is intended for educational purposes and is not affiliated with or endorsed by Beago AI.
+**BeagoAI Unofficial API** is a Python client library designed to interact with the Beago AI platform unofficially. It provides a simple interface to authenticate and communicate with the Beago AI API, allowing users to send queries and receive responses in a structured format. This library is intended for educational purposes and is not affiliated with or endorsed by Beago AI.
 
 ## How It Works
 
