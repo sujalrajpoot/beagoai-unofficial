@@ -14,6 +14,21 @@ The library handles authentication by using API keys and refresh tokens stored i
 - **Query Processing**: Sends user queries to the Beago AI API and processes the responses.
 - **Response Handling**: Supports streaming responses, including text, images, and quotes.
 
+## Getting Your KEY and REFRESH_TOKEN
+
+To use the BeagoAI_Unofficial class, you'll need your **KEY** and **REFRESH_TOKEN**. Follow the steps below to retrieve them:
+```
+1. Log in to your account on the BaeagoAI platform ((https://www.beago.ai/).
+2. Open the browser's developer tools (`F12` or `Ctrl+Shift+I` on most browsers).
+3. Navigate to the **Network** tab.
+4. Look for API requests (https://securetoken.googleapis.com/v1/token?key=).
+5. Copy the `KEY` and `REFRESH_TOKEN` from the request payload.
+```
+
+Refer to the image below for detailed instructions:
+
+![How to Get KEY and REFRESH_TOKEN](Credentials.png)
+
 ## Installation
 
 1. Clone the repository:
